@@ -1,4 +1,1 @@
-print("Hello world!")
-
-print("This is a streamlit app")
-
+st.write("This is a streamlit app UI")
